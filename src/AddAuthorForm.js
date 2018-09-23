@@ -70,4 +70,3 @@ function mapDispatchToProps(dispatch, props) {
 }
 
 export default withRouter(connect(() => ({}), mapDispatchToProps)(AddAuthorForm));
-// export default withRouter(connect(null, mapDispatchToProps)(AddAuthorForm));

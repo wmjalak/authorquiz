@@ -18,6 +18,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "@types/underscore": "^1.8.9",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1"
   }
